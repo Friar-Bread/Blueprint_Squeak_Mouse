@@ -11,6 +11,7 @@ This was a intresting project that allowed me to learn about some parts of Onsha
 I also got more experience doing CAD in metric because I'm more used to doing CAD in imperial.
 
 BOM:
+
 3D Printed Shell - I'm printing it
 
 [Bambulab mouse kit](https://us.store.bambulab.com/products/wireless-mouse-components-kit-002) - $10.40
