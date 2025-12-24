@@ -18,4 +18,4 @@ BOM:
 
 Shipping & Tax - $8.28
 
-Total - $17.39
+Total - $18.68
