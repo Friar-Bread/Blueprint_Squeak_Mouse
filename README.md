@@ -16,6 +16,6 @@ BOM:
 
 [Bambulab mouse kit](https://us.store.bambulab.com/products/wireless-mouse-components-kit-002) - $10.40
 
-Shipping & Tax - $6.99
+Shipping & Tax - $8.28
 
 Total - $17.39
